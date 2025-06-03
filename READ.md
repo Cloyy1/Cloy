@@ -6,3 +6,6 @@ Data Management - Tabs
 
 App - HandsMen Threads
 [watch demo](https://drive.google.com/file/d/1uO4ISc_8mj9r7fQYefObmzCcbX6ZYLtb/view?usp=drive_link)
+
+Create Remaining fields for the objects
+[watch demo](https://drive.google.com/file/d/15Zg5g-vcfe9aHGKljURWe2AbMRfqTwXv/view?usp=drive_link)
