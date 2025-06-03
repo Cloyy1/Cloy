@@ -10,3 +10,6 @@ App - HandsMen Threads
 Create Remaining fields for the objects
 [watch demo](https://drive.google.com/file/d/15Zg5g-vcfe9aHGKljURWe2AbMRfqTwXv/view?usp=drive_link)
 [watch demo p2](https://drive.google.com/file/d/1-c3aTGT_CeEgn73HZWZGZni-7NcjeqoZ/view?usp=drive_link)
+
+Create Remaining Validation Rules
+[watch demo](https://drive.google.com/file/d/1P1QydG-KioyQ-b1MvFhHmRxsIXUJkNj0/view?usp=drive_link)
