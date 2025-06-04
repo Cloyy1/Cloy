@@ -15,3 +15,5 @@ Create Remaining Validation Rules
 [watch demo](https://drive.google.com/file/d/1P1QydG-KioyQ-b1MvFhHmRxsIXUJkNj0/view?usp=drive_link)
 [watch demo p2](https://drive.google.com/file/d/18-6UZocXaOSRMo1Jk9TvGQPulItHjGC-/view?usp=drive_link)
 
+Data security - Profiles
+[watch demo](https://drive.google.com/file/d/1UXKQI35ZX75iXQw6oJmPqYJA2p7RATfy/view?usp=drive_link)
