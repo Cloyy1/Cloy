@@ -25,3 +25,6 @@ Data Security - Users
 [watch demo](https://drive.google.com/file/d/1_Pt4SI-g7JOdBehypBW-I9LKmYU55hUd/view?usp=drive_link)
 [watch demo p2 ](https://drive.google.com/file/d/1Z_4qCuOGrcMIvFy5BWwcL0rZWBNgnzaV/view?usp=drive_link)
 [watch demo p3 ](https://drive.google.com/file/d/17D0-jOjEBXmEKUzXro8uv_NO3qMHK9vE/view?usp=drive_link)
+
+Data Security - Permission Set
+[watch demo](https://drive.google.com/file/d/12-9J9Bp2Z1k44zXEJaCyf_aOsRzUeuVn/view?usp=drive_link)
