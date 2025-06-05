@@ -28,3 +28,6 @@ Data Security - Users
 
 Data Security - Permission Set
 [watch demo](https://drive.google.com/file/d/12-9J9Bp2Z1k44zXEJaCyf_aOsRzUeuVn/view?usp=drive_link)
+
+Email Template
+[watch demo](https://drive.google.com/file/d/11-43ljyWPvumj-Qa89FT4kVIXhs4n-Dl/view?usp=drive_link)
