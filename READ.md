@@ -39,3 +39,6 @@ flows
 
 Create apex class
 [watch](https://drive.google.com/file/d/1lRGL_0f-fOclVpx__xfoqUkDtTgmw-GG/view?usp=drive_link)
+
+batch jobs
+[watch](https://drive.google.com/file/d/1Da4FECCwSE3A-qY6y1bYAu_N12ht-ur2/view?usp=drive_link)
